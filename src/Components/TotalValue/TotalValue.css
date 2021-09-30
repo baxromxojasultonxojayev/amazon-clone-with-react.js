@@ -1,0 +1,33 @@
+.totalValue{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 300px;
+  padding: 20px;
+  background: rgb(228, 226, 226);
+  border-radius: 10px;
+  border: 1px solid rgb(187, 186, 186);
+}
+
+.totalValue_text{
+  font-size: 16px;
+  color: gray;
+}
+
+.totalValue_text strong{
+  color: black;
+}
+
+.totalvalue_gift{
+  font-size: 16px;
+  color: gray;
+  margin: 15px 0;
+}
+
+button{
+  background: #f0c14b;
+  padding: 5px;
+  border: navajowhite;
+  color: white;
+  border-radius: 5px;
+}
